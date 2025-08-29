@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.3.8] - 2025-08-31
 
 ### Changed
+- **Landing Page Section Order**: Reordered the sections on the landing page for a more intuitive and impactful user flow. The new order is Hero, Drag & Drop, Powerful Features, Boost Your Website, Private & Secure, and How It Works.
 - **Landing Page Redesign**: Redesigned the "Packed with Powerful Features" section with a vibrant, glowing aesthetic, replacing the individual cards with a single, large "glass-morphism" container to unify the design and align it with other modern sections of the page.
 - **Privacy Section Animation**: Enhanced the "Private & Secure" section with a bold, attention-grabbing animation, including a radiating "shockwave" pulse and a more intense glow effect on the central icon to emphasize the feature's importance.
 
